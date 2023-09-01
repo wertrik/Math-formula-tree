@@ -6,7 +6,7 @@ This is simple solution for algorithm task in PHP.
 Defined mathematical formula e.g. A + B * (C + D) convert to the tree.
 
 Solution containt procedural function drawTree() - use recursion.
-Drawing of tree is not perfect, but it is suficient for me :-)
+Drawing of tree is not perfect, but it is sufficient for me :-)
 
 Next contains Object node() [which implement interface] with method calculate().
 Method calculate actually dont do mathematical operations - just show final leftNode + operator + rightNode.
