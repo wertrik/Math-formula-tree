@@ -17,3 +17,22 @@ Next steps:
 - Implement mathematical methods for do real math operations.
 
 Nice task!
+
+Formula: A + B * C * (D + E) + F 
+Formula tree:
+
+[ + ]
+/    \
+/      (F)
+[ + ]
+/    \
+(A)      \
+[ * ]
+/    \
+(B)      \
+[ * ]
+/    \
+(C)      \
+[ + ]
+/    \
+(D)     (E) 
