@@ -20,7 +20,7 @@ Nice task!
 
 Formula: A + B * C * (D + E) + F 
 Formula tree:
-
+```
 [ + ]
 /    \
 /    (F)
@@ -36,3 +36,4 @@ Formula tree:
 [ + ]
 /    \
 (D)  (E) 
+```
